@@ -1,22 +1,20 @@
 {
   "values":[
     "alexsdelight:gongylidia_bruschetta",
-    "alexsdelight:maggot_salad",
     "alexsdelight:kangaroo_stew",
     "alexsdelight:acacia_blossom_soup",
     "alexsdelight:lobster_pasta",
     "alexsdelight:bison_burger",
+    "alexsdelight:cooked_bison",
     "alexsdelight:bunfungus_sandwich",
     "alexsdelight:kangaroo_pasta",
     "delightful:deluxe_cheeseburger",
     "delightful:cheeseburger",
-    "delightful:nut_butter_and_jelly_sandwich",
     "delightful:sinigang",
     "delightful:coconut_curry",
     "farmersdelight:mushroom_rice",
     "farmersdelight:pasta_with_mutton_chop",
     "farmersdelight:pasta_with_meatballs",
-    "farmersdelight:bacon_and_eggs",
     "farmersdelight:noodle_soup",
     "farmersdelight:baked_cod_stew",
     "farmersdelight:pumpkin_soup",
@@ -25,6 +23,23 @@
     "farmersdelight:vegetable_soup",
     "farmersdelight:chicken_soup",
     "farmersdelight:beef_stew",
-    "farmersdelight:",
+    "farmersdelight:hamburger",
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:smoked_ham",
+    "farmersdelight:shepherds_pie",
+    "farmersdelight:honey_glazed_ham",
+    "farmersdelight:stuffed_pumpkin",
+    "farmersdelight:roast_chicken",
+    "farmersdelight:grilled_salmon",
+    "farmersdelight:squid_ink_pasta",
+    "farmersdelight:ratatouille",
+    "farmersdelight:steak_and_potatoes",
+    "farmersdelight:vegetable_noodles",
+    "farmersdelight:roasted_mutton_chops",
+    "farmersdelight:barbecue_stick"
   ]
 }
+
+
+
+
