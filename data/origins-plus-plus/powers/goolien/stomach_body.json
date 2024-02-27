@@ -106,5 +106,18 @@
 			"type":"origins:heal",
 			"amount":8
 		}
+	},
+	"tier_4_foods":{
+		"type":"origins:modify_food",
+		"item_condition":{
+			"type":"origins:ingredient",
+			"ingredient":{
+				"tag":"origins-plus-plus:tier_4_foods"
+			}
+		},
+		"entity_action":{
+			"type":"origins:heal",
+			"amount":16
+		}
 	}
 }
