@@ -3,6 +3,11 @@
     "minecraft:cooked_beef",
     "minecraft:cooked_porkchop",
     "minecraft:pumpkin_pie",
-    "minecraft:rabbit_stew"
+    "minecraft:rabbit_stew",
+    "farmersdelight:bacon_and_eggs",
+    "delightful:nut_butter_and_jelly_sandwich",
+    "alexsdelight:maggot_salad",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:kelp_roll"
   ]
 }
